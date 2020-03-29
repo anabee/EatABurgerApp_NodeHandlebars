@@ -1,4 +1,20 @@
 body {
-  background-color: palevioletred;
+  background-color: rgb(215, 110, 145, 0.7);
+  text-align: center;
 }
 
+.entering {
+  text-align: center;
+}
+
+img {
+  height: 300px;
+}
+
+li {
+  list-style-type: none;
+}
+
+p {
+  font-size: 25px;
+}
