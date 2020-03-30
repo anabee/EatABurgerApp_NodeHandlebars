@@ -23,4 +23,10 @@ This project is licensed under MIT
 
 <img src="https://avatars3.githubusercontent.com/u/42880531?v=4" alt="avatar" style="border-radius: 16px" width="30 />
 
-> If you have any questions about the repo, open an issue or contact anabee directly at: [GitHub](https://api.github.com/users/anabee) | [Email](null)
+> If you have any questions about the repo, open an issue or contact anabee directly at: [GitHub](https://api.github.com/users/anabee) | [Email](anav1317@yahoo.com)
+
+https://anabee.github.io/EatABurgerApp_NodeHandlebars/
+
+https://github.com/anabee/EatABurgerApp_NodeHandlebars
+
+<img width="961" alt="Screen Shot 2020-03-29 at 6 55 16 PM" src="https://user-images.githubusercontent.com/42880531/77868132-d650dc00-71ee-11ea-92ab-2c20656010ee.png">
