@@ -1,6 +1,7 @@
 body {
-  background-color: rgb(215, 110, 145, 0.7);
+  background-color: rgb(215, 110, 145, 0.4);
   text-align: center;
+  font-family: 'Fredoka One', cursive;
 }
 
 .entering {
